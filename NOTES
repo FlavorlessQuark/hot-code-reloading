@@ -53,7 +53,10 @@ READ :
         - https://carsontang.github.io/unix/2013/06/01/guide-to-object-file-linking/
         - https://blog.cloudflare.com/how-to-execute-an-object-file-part-1
 
-- [ ] Make ELF parser to better understand file format.
+- [X] Make ELF parser to better understand file format.
+- [ ] Simple program, change one function
+- [ ] // // // // //, change main
+- [ ] Can we tag things whose data we want to keep loade (e.g value persists after hcr)
 
 <!-- How to :
 
